@@ -1,1 +1,1 @@
-git branch dev
+git checkout dev

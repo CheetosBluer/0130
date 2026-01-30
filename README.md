@@ -1,2 +1,1 @@
-git add main.py
-git commit -m “добавили if”
+git branch dev
